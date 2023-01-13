@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jatinthakur9
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning dsa
-- 💞️ I’m looking to collaborate on Flutter 
+- 💞️  Flutter 
 - 📫 How to reach me -email at tjatin29@gmail.com or twitter - https://twitter.com/jatin_thakur9
 
 <!---
