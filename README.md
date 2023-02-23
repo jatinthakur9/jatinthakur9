@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jatin Thakur 
+- 👋 Hi, I’m Jatin 
 - 💞️  Flutter 
 - 📫 How to reach me -email at tjatin29@gmail.com or twitter - https://twitter.com/jatin_thakur9
 
