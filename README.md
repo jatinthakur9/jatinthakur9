@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jatin 
-- 💞️  Flutter 
-- 📫 How to reach me -email at tjatin29@gmail.com or twitter - https://twitter.com/jatin_thakur9
+- 💞️    Reactjs  
+- 📫 How to reach me -email at tjatin29@gmail.com 
 
 <!---
 jatinthakur9/jatinthakur9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
