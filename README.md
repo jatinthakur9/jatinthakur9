@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jatin 
-- 💞️    Reactjs  
+- 💞️    Reactjs , Nodejs , React Native 
 - 📫 How to reach me -email at tjatin29@gmail.com 
 
 <!---
