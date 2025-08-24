@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jatin 
-- 💞️    Reactjs , Nodejs , React Native 
+- 💞️    Reactjs , Nodejs , React Native   , Flutter
 - 📫 How to reach me -email at tjatin29@gmail.com 
 
 <!---
